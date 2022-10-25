@@ -42,7 +42,6 @@ public class Document {
             if (AbcExeption.abcEx(st)) {
                 throw new AbcExeption("В строке присутствует последовательность abc(ABC)!");
             }
-
     }
 
     public static void stStart555(String st) throws FiveFiveFiveExeption {
